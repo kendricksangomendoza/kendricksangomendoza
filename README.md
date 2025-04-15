@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kendrick Mendoza!
-- 👀 I’m interested in doing things. :P
+- 👀 I’m interested in solving problems. :P
 - 🌱 I’m currently learning Python and CSS, Javascript, and HTML.
 - 📫 How to reach me: @kendricksangomendoza on Instagram.
 - 😄 Pronouns: he/him
